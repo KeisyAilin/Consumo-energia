@@ -1,4 +1,4 @@
-# CAÇCULADORA DE CONSUMO ELÉTRICO
+# CALCULADORA DE CONSUMO ELÉTRICO
 
 ## Objetivo do Projeto
 Neste sitema, é possível calcular quanto que um aparelho gasta de energia elétrica por mês. 
