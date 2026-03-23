@@ -1,7 +1,7 @@
 # CALCULADORA DE CONSUMO ELÉTRICO
 
 ## 🔎Objetivo do Projeto
-Neste sitema, é possível calcular quanto que um aparelho gasta de energia elétrica por mês. 
+Neste sitema, é possível calcular o quanto que um aparelho gasta de energia elétrica por mês. 
 
 ## 💻Linguagem Utilizada
 ![python](https://img.shields.io/badge/language-python-black?style=flat&logo=python&logoColor=3776AB&labelColor=white&color=3776AB)
